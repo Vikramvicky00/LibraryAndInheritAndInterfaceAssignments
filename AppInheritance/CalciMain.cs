@@ -3,7 +3,7 @@ using CalciLibrary;
 
 namespace AppInheritance
 {
-    internal class Program
+    internal class CalciMain
     {
         static void Main(string[] args)
         {

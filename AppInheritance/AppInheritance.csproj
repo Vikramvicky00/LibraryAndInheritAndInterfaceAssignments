@@ -53,7 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="InterfaceAssignMain.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="CalciMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
