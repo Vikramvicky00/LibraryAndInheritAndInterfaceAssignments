@@ -1,7 +1,7 @@
 ﻿using System;
 using CalciLibrary;
 
-namespace AppInheritance
+namespace AppInheritInterface
 {
     internal class CalciMain
     {

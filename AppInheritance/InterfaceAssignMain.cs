@@ -1,7 +1,7 @@
 ﻿using System;
 using InterfaceAssignLibrary;
 
-namespace AppInheritance
+namespace AppInheritInterface
 {
     internal class InterfaceAssignMain
     {

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{473F0FD2-F114-4751-B3D3-D3FEB2C33463}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AppInheritance</RootNamespace>
-    <AssemblyName>AppInheritance</AssemblyName>
+    <RootNamespace>AppInheritInterface</RootNamespace>
+    <AssemblyName>AppInheritInterface</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AppInheritance.InterfaceAssignMain</StartupObject>
+    <StartupObject>AppInheritInterface.CalciMain</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CalciLibrary">
